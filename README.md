@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Social Media platform Assignment
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A social media platform is a dynamic online space where users can connect and interact. Users can create posts to share their thoughts, experiences, and media content, fostering engagement within their network. They can also like and share posts from others, expressing approval or spreading interesting content. The commenting feature allows for discussions, debates, and conversations on various topics. To access these features, users must go through a login or registration process, ensuring security and personalization. This blend of content creation, sharing, and communication makes social media platforms integral to modern online communication and social interaction.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Home Page
+![image](https://github.com/rakesh231295/recovero/assets/58915771/3e50b235-edfd-482c-9f7c-476960fefceb)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Create post Page
+![image](https://github.com/rakesh231295/recovero/assets/58915771/9181bc3e-7251-4bab-9b6d-71f8b06017a8)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Login Page
+![image](https://github.com/rakesh231295/recovero/assets/58915771/19385acf-a9e9-4248-9882-d95ed1c423b5)
 
-To learn more about Next.js, take a look at the following resources:
+## Signup Page
+![image](https://github.com/rakesh231295/recovero/assets/58915771/45699479-e73f-4241-b5cd-3a6f10bccc42)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
